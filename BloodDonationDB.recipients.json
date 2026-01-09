@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "665b13438170d21ce257e37d"
+  },
+  "name": "aliza",
+  "bloodType": "O+",
+  "city": "islamabad"
+},
+{
+  "_id": {
+    "$oid": "665b134f8170d21ce257e37e"
+  },
+  "name": "hasnain",
+  "bloodType": "AB+",
+  "city": "lahore"
+},
+{
+  "_id": {
+    "$oid": "665b13638170d21ce257e37f"
+  },
+  "name": "haseeb",
+  "bloodType": "B+",
+  "city": "lahore"
+},
+{
+  "_id": {
+    "$oid": "665b15b98170d21ce257e380"
+  },
+  "name": "uzma",
+  "bloodType": "A+",
+  "city": "islamabad"
+}]
